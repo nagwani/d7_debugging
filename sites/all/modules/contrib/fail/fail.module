@@ -7,8 +7,8 @@
 
 
 function fail_init() {
-  $node = node_load(arg('asfd'));
+  //$node = node_load(arg('asfd'));
   //if (arg(0) == 'node') {
-    drupal_set_m1essage('this is a test of an argument %argument', array('%argument' => 'no contest'));
+    //drupal_set_m1essage('this is a test of an argument %argument', array('%argument' => 'no contest'));
   //}
 }
