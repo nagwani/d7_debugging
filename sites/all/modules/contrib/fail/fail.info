@@ -1,0 +1,4 @@
+name = Fail
+description = Show drupal debugging.
+core = 7.x
+package = Testing
